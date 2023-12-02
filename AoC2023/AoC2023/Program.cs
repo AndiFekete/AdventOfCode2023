@@ -2,14 +2,14 @@
 {
     internal class Program
     {
-
-        private static readonly string _inputFileName = @"..\..\..\input.txt";
-
         static void Main(string[] args)
         {
             //Day 1
-            Day01.BothParts(isPartTwo: false); 
-            Day01.BothParts(isPartTwo: true);
+            //Day01.BothParts(isPartTwo: false); 
+            //Day01.BothParts(isPartTwo: true);
+
+            //Day2
+            Day02.BothParts();
         }
     }
 }
