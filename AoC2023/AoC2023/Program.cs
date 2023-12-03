@@ -8,8 +8,12 @@
             //Day01.BothParts(isPartTwo: false); 
             //Day01.BothParts(isPartTwo: true);
 
-            //Day2
-            Day02.BothParts();
+            //Day 2
+            //Day02.BothParts();
+
+            //Day 3
+            //Day03.PartOne();
+            Day03.PartTwo();
         }
     }
 }
