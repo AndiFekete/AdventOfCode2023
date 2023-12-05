@@ -19,7 +19,8 @@
             //Day04.BothParts();
 
             //Day 5
-            Day05.PartOne();
+            Day05.ParseInput();
+            Day05.PartTwo();  
         }
     }
 }
