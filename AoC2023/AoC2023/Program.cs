@@ -13,7 +13,13 @@
 
             //Day 3
             //Day03.PartOne();
-            Day03.PartTwo();
+            //Day03.PartTwo();
+
+            //Day 4
+            //Day04.BothParts();
+
+            //Day 5
+            Day05.PartOne();
         }
     }
 }
