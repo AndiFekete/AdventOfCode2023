@@ -19,8 +19,14 @@
             //Day04.BothParts();
 
             //Day 5
-            Day05.ParseInput();
-            Day05.PartTwo();  
+            //Day05.ParseInput();
+            //Day05.PartTwo();  
+
+            //Day 6
+            //Day06.PartTwo();
+
+            //Day 7
+            Day07.BothParts();
         }
     }
 }
