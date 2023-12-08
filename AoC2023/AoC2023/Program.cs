@@ -26,7 +26,10 @@
             //Day06.PartTwo();
 
             //Day 7
-            Day07.BothParts();
+            //Day07.BothParts();
+
+            //Day 6
+            Day08.PartTwo();
         }
     }
 }
