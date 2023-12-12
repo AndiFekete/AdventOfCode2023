@@ -3,7 +3,7 @@
     public static class Day09
     {
 
-        public static void PartOne()
+        public static void BothParts()
         {
             var extrapolatedValues = new List<long>();
             var extrapolatedHistoryValues = new List<long>();

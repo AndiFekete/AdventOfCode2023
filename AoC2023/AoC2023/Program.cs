@@ -32,7 +32,10 @@
             //Day08.PartTwo();
 
             //Day 9
-            Day09.PartOne();
+            //Day09.BothParts();
+
+            //Day 10
+            Day10.PartOne();
         }
     }
 }
