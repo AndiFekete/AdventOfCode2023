@@ -32,10 +32,11 @@
             //Day08.PartTwo();
 
             //Day 9
-            //Day09.BothParts();
+            //Day09.PartOne();
 
-            //Day 10
-            Day10.PartOne();
+            //Day 11
+            Day11.BothParts(1);
+            Day11.BothParts(999999);
         }
     }
 }
