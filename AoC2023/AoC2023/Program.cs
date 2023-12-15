@@ -34,9 +34,19 @@
             //Day 9
             //Day09.PartOne();
 
+            //Day 10
+            //Day10.PartOne();
+
             //Day 11
-            Day11.BothParts(1);
-            Day11.BothParts(999999);
+            //Day11.BothParts(1);
+            //Day11.BothParts(999999);
+
+            //Day 12
+            //Day12.BothParts(true);
+
+            //Day 15
+            //Day15.PartOne();
+            Day15.PartTwo();
         }
     }
 }
