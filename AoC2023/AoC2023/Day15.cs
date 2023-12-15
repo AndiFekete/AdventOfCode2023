@@ -1,6 +1,4 @@
-﻿using System.Reflection.PortableExecutable;
-
-namespace AoC2023
+﻿namespace AoC2023
 {
     public static class Day15
     {
