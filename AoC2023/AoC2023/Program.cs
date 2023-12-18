@@ -46,11 +46,15 @@
 
             //Day 13
             //Day13.PartOne();
-            Day13.PartTwo();
+            //Day13.PartTwo();
 
             //Day 15
             //Day15.PartOne();
             //Day15.PartTwo();
+
+            //Day 18
+            //Day18.PartOne();
+            Day18.PartTwo();
         }
     }
 }
